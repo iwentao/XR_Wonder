@@ -1,2 +1,2 @@
-# XR_Wonder
+# XR Wonder
 XR Wonder project - a project to showcase some wonder features in XR
